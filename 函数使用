@@ -1,0 +1,3 @@
+lamda 用法
+multi=lambda x,y:x*y #lambda关键字定义,以':'分割，左边为参数列表，右边为返回结果的表达式
+print multi(2,3)
